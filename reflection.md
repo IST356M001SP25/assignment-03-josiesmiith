@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Josie Smith
+Sudent Email:  jsmit194@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I learned how to use the file_uploader input widget in Streamlit,  and how to use StringIO to read a file as text data. I also now better understand the .keys() and .values() functions, which respectively isolate the keys and values from a dictionary key pair. I learned how to call functions from custom modules, either by importing the entire module and calling the functions as methods, or by importing specific functions from the module. I still struggle not referencing the solutions folder, I had to reference it for process_file in order to figure out how to read the file line by line, and I had to reference it for process_files to figure out which variables to initialize in the session state. This assignment went better than the last.
